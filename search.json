@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Building My First Quarto Website\n\n\n\n\n\n\n\n\nFeb 9, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "posts/first-post/index.html",
+    "href": "posts/first-post/index.html",
+    "title": "Building My First Quarto Website",
+    "section": "",
+    "text": "This is Rubee’s first attempt at building a website using Quarto.\nIn the future, I plan to use this space to share small reflections related to my psychology coursework, research interests, and tools I’m learning."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My quarto site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nWelcome\nThis website is a first and simple Rubee’s portfolio built with Quarto.\n\n\nResearch Interest\nI am interested in personal growth, particularly how authenticity and self-empowerment enhance development. I am also interested in how these concepts relate to cognition and attention, offering a different perspective on personal growth."
+  },
+  {
+    "objectID": "submit.html",
+    "href": "submit.html",
+    "title": "Website Submission",
+    "section": "",
+    "text": "Click the link below to view my Quarto website:\nMy Quarto Website"
+  }
+]
