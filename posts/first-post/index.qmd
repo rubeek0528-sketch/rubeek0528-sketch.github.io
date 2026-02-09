@@ -1,0 +1,9 @@
+---
+title: "Building My First Quarto Website"
+date: 2026-02-09
+categories: [Quarto, coursework, psychology]
+---
+
+This is Rubee's first attempt at building a website using Quarto. 
+
+In the future, I plan to use this space to share small reflections related to my psychology coursework, research interests, and tools I’m learning.
